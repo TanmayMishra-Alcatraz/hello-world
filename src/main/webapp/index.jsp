@@ -44,16 +44,20 @@
   <h1>Tanmay's Must-Watch Movies</h1>
   <div class="movie-grid">
     <div class="movie-tile">
-      <img src="boyhood.jpg" alt="Boyhood Poster">
+      <img src="/attachments/5i3axV8ZvCjmGdNvDZFPj.jpeg" alt="Boyhood Poster">
       <h2>Boyhood</h2>
     </div>
     <div class="movie-tile">
-      <img src="den_of_thieves.jpg" alt="Den of Thieves Poster">
+      <img src="/attachments/W5jfRxJaGXazyW5MRxjSH.jpeg" alt="Den of Thieves Poster">
       <h2>Den of Thieves</h2>
     </div>
     <div class="movie-tile">
-      <img src="upgrade.jpg" alt="Upgrade Poster">
+      <img src="/attachments/ceewAvKEiTPb5UGgs6YY1.jpeg" alt="Upgrade Poster">
       <h2>Upgrade</h2>
+    </div>
+  </div>
+</body>
+</html>
     </div>
   </div>
 </body>
