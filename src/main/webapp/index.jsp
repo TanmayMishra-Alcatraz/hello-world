@@ -43,19 +43,37 @@
 <body>
   <h1>Tanmay's Must-Watch Movies</h1>
   <div class="movie-grid">
-  <div class="movie-tile">
-    <img src="boyhood.jpg" alt="Boyhood Poster">
-    <h2>Boyhood</h2>
+    <!-- Existing movies -->
+    <div class="movie-tile">
+      <img src="boyhood.jpg" alt="Boyhood Poster">
+      <h2>Boyhood</h2>
+    </div>
+    <div class="movie-tile">
+      <img src="den_of_thieves.jpg" alt="Den of Thieves Poster">
+      <h2>Den of Thieves</h2>
+    </div>
+    <div class="movie-tile">
+      <img src="upgrade.jpg" alt="Upgrade Poster">
+      <h2>Upgrade</h2>
+    </div>
+
+    <!-- New movies -->
+    <div class="movie-tile">
+      <img src="hell_or_high_water.jpg" alt="Hell or High Water Poster">
+      <h2>Hell or High Water</h2>
+    </div>
+    <div class="movie-tile">
+      <img src="place_beyond_the_pines.jpg" alt="The Place Beyond the Pines Poster">
+      <h2>The Place Beyond the Pines</h2>
+    </div>
+    <div class="movie-tile">
+      <img src="bourne_identity.jpg" alt="The Bourne Identity Poster">
+      <h2>The Bourne Identity</h2>
+    </div>
+    <div class="movie-tile">
+      <img src="small_town_wisconsin.jpg" alt="Small Town Wisconsin Poster">
+      <h2>Small Town Wisconsin</h2>
+    </div>
   </div>
-  <div class="movie-tile">
-    <img src="den_of_thieves.jpg" alt="Den of Thieves Poster">
-    <h2>Den of Thieves</h2>
-  </div>
-  <div class="movie-tile">
-    <img src="upgrade.jpg" alt="Upgrade Poster">
-    <h2>Upgrade</h2>
-  </div>
-</div>
 </body>
 </html>
-    
